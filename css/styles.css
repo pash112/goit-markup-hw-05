@@ -644,8 +644,7 @@ img {
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-.icon-use,
-.user-icon:focus {
+.icon-use:focus {
   fill: #4d5ae5;
 }
 .form-twrapper-icon {
