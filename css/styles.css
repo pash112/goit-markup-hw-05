@@ -646,9 +646,10 @@ img {
 }
 .icon-use:focus {
   fill: #4d5ae5;
+  border-color: #4d5ae5;
 }
+
 .form-twrapper-icon {
   position: relative;
   margin-bottom: 8px;
-  position: relative;
 }
