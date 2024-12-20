@@ -698,8 +698,8 @@ img {
   justify-content: center;
   fill: transparent;
 }
-.checkbox :checked,
-span .check-icon {
+.checkbox:checked,
+.check-icon {
   border: none;
   fill: #f4f4fd;
   background-color: #404bbf;
