@@ -699,7 +699,7 @@ img {
   fill: transparent;
 }
 .checkbox :checked,
-span {
+span .check-icon {
   border: none;
   fill: #f4f4fd;
   background-color: #404bbf;
