@@ -702,6 +702,7 @@ img {
 span {
   border: none;
   fill: #f4f4fd;
+  background-color: #404bbf;
 }
 .privacy-link {
   color: #4d5ae5;
