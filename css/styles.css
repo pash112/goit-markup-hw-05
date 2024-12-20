@@ -698,9 +698,8 @@ img {
   justify-content: center;
   fill: transparent;
 }
-.check-id:checked,
+.checkbox :checked,
 span {
-  background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
 }
@@ -721,8 +720,4 @@ span {
   background-color: #4d5ae5;
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-.checkbox:checked + span {
-  fill: #f4f4fd;
-  border: none;
 }
