@@ -698,8 +698,7 @@ img {
   justify-content: center;
   fill: transparent;
 }
-.checkbox:checked,
-.check-icon {
+.checkbox:checked + .check-lable .private-policy {
   border: none;
   fill: #f4f4fd;
   background-color: #404bbf;
