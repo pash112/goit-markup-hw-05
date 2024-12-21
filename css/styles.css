@@ -707,7 +707,9 @@ img {
   color: #4d5ae5;
 }
 .btn-send {
+  border-radius: 4px;
   display: block;
+  margin: 0 auto;
   min-width: 169px;
   height: 56px;
   font-family: "Roboto", sans-serif;
